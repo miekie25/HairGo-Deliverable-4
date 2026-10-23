@@ -78,7 +78,7 @@ The ZIP contains the committed project source at the time it was packaged.
 
 The demonstration video shows HairGo in action and presents the implemented client and salon-owner workflows.
 
-**Video link:** [Insert the direct link to the completed demonstration video]
+**Video link:** [Watch the HairGo Application Demonstration](https://drive.google.com/file/d/1NaLTKK7TcePOhsIF6tFPdzChTrW827_b/view?usp=drive_link)
 
 ## Screenshots and User Stories
 
