@@ -1,4 +1,4 @@
-# HairGo — Deliverable 4
+# HairGo: ITDMA3-34 Deliverable 4 Submission
 
 HairGo is a native Android application for booking hair salon and barbershop appointments. Clients can discover salons, browse services, book appointments, and communicate with salon owners. Salon owners can manage their salon profiles, services, and bookings, while administrators can moderate users, salons, and reports.
 
