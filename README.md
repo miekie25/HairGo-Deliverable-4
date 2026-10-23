@@ -62,7 +62,7 @@ HairGo includes a mock payment system to demonstrate the booking payment workflo
 
 - Allows users to interact with the simulated payment process.
 - Supports payment-related information and statuses as implemented in the application.
-- Helps demonstrate how payment fits into the appointment booking experience.
+- Demonstrates how payment fits into the appointment booking experience.
 
 **Important:** The payment system is for demonstration purposes. It does not process real financial transactions through a live payment gateway.
 
